@@ -1,0 +1,35 @@
+body {
+	background-color: #E7E7E7;
+}
+
+.navbar-inverse {
+    background-color: #1A2639;
+    border-color: #080808;
+}
+
+.jumbotron{
+	background-color: #394354	
+}
+
+.head-text {
+	color: white;
+}
+
+.sub-head {
+	color: #b0b8c9;
+}
+
+.navbar-inverse .navbar-brand {
+	color: #b0b8c9;
+}
+.navbar-inverse .navbar-nav>li>a {
+	color: #b0b8c9;
+}
+
+.well, .col-md-4 {
+	background-color: white;
+}
+
+.col-md-4 {
+	height:220px;
+}
